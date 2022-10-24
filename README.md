@@ -2,7 +2,7 @@
 
 Data analysis of covid-19 and building models using machine learning
 
- 1.数据处理
+ 数据处理
 
  --数据预处理
 
@@ -10,9 +10,11 @@ Data analysis of covid-19 and building models using machine learning
  
  --验证
  
- 2.部署
+ 部署
  
- 3. Dependencies
+ --微服务
+ 
+Dependencies
     
     ensure that the version of your Python >= 3.6. We recommend Anaconda to manage the version of Python and installed packages.
     
@@ -35,7 +37,7 @@ Data analysis of covid-19 and building models using machine learning
 
        $ conda install matplotlib
   
-  4.References
+ References
   
   (1) Nan-Nan Sun , Ya Yang , Ling-Ling Tang, Zhen Li, Ying-Ning Dai, Hai-Nv Gao, Wan Xu and Bin Ju. A prediction model based on machine learning for diagnosing the early COVID-19 patients. Journal of Antivirals & Antiretrovirals 13, no. 100002(2021)
   
