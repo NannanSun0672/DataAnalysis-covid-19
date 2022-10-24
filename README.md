@@ -2,42 +2,33 @@
 
 Data analysis of covid-19 and building models using machine learning
 
- 数据处理
+## 数据处理
+* 数据预处理
+* models 
+* 验证
+## 部署
+* 微服务
+## Dependencies
+ensure that the version of your Python >= 3.6. We recommend Anaconda to manage the version of Python and installed packages.
+* Numpy (version >= 1.15)
 
- --数据预处理
-
- --models
- 
- --验证
- 
- 部署
- 
- --微服务
- 
-Dependencies
+ $ conda install numpy
     
-    ensure that the version of your Python >= 3.6. We recommend Anaconda to manage the version of Python and installed packages.
+* Scikit-Learn (version >= 0.19)
+
+ $ conda install scikit-learn
     
-    1. Numpy (version >= 1.15)
+* Pandas (version == 0.24.2)
 
-       $ conda install numpy
-    
-    2. Scikit-Learn (version >= 0.19)
+ $ conda install pandas
+* PyTorch (version == 4.5.2)
 
-       $ conda install scikit-learn
-    
-    3. Pandas (version == 0.24.2)
+ $ conda install pytorch torchvision cudatoolkit=x.x -c pytorch 
 
-       $ conda install pandas
-    4. PyTorch (version == 4.5.2)
+* Matplotlib (version >= 2.0)
 
-       $ conda install pytorch torchvision cudatoolkit=x.x -c pytorch 
-
-    5. Matplotlib (version >= 2.0)
-
-       $ conda install matplotlib
-  
- References
+ $ conda install matplotlib
+## References
   
   (1) Nan-Nan Sun , Ya Yang , Ling-Ling Tang, Zhen Li, Ying-Ning Dai, Hai-Nv Gao, Wan Xu and Bin Ju. A prediction model based on machine learning for diagnosing the early COVID-19 patients. Journal of Antivirals & Antiretrovirals 13, no. 100002(2021)
   
