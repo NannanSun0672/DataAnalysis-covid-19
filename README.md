@@ -18,18 +18,18 @@ Dependencies
     
     ensure that the version of your Python >= 3.6. We recommend Anaconda to manage the version of Python and installed packages.
     
-    1. Numpy (version >= 1.19)
+    1. Numpy (version >= 1.15)
 
        $ conda install numpy
     
-    2. Scikit-Learn (version >= 0.23)
+    2. Scikit-Learn (version >= 0.19)
 
        $ conda install scikit-learn
     
-    3. Pandas (version >= 1.2.2)
+    3. Pandas (version == 0.24.2)
 
        $ conda install pandas
-    4. PyTorch (version == 1.7)
+    4. PyTorch (version == 4.5.2)
 
        $ conda install pytorch torchvision cudatoolkit=x.x -c pytorch 
 
