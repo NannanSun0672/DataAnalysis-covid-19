@@ -45,7 +45,7 @@ Dependencies
   
   (3)Su-Xia Bao , Hong-Yi Pan , Wei Zheng , Qing-Qing Wu , Yi-Ning Dai, Nan-Nan Sun, Tian-Chen Hui, et,al. Multicenter analysis and a rapid screening model to predict early novel coronavirus pneumonia using a random forest algorithm. Medicine. 100.24(2021):e26279
   
-  (4)郑伟†, 戴伊宁, 孙楠楠, 尹乔乔, 吴青青, 惠田辰, 吴文昊, 黄海军, 童永喜, 黄益澄, 汪明珊, 陈美娟, 张 家杰, 严蓉, 高海女, 潘红英. 应用随机森林模型和 Logistic 回归模型分析 COVID-19 的影响因素. 预 防医学. 33.7(2021):722-725
+  (4)郑伟, 戴伊宁, 孙楠楠, 尹乔乔, 吴青青, 惠田辰, 吴文昊, 黄海军, 童永喜, 黄益澄, 汪明珊, 陈美娟, 张 家杰, 严蓉, 高海女, 潘红英. 应用随机森林模型和 Logistic 回归模型分析 COVID-19 的影响因素. 预 防医学. 33.7(2021):722-725
   
     
 
